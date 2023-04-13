@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4f5d177a-7fa6-433c-9149-0063dcbf0990/resourceGroups/TGDemo01_group/providers/Microsoft.Web/sites/tgdemowebapp"
+}
